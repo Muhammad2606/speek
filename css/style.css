@@ -1,0 +1,11 @@
+textarea{
+    display: block;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    margin-bottom: 2rem;
+}
+button{
+    display: block;
+    margin: 0 auto;
+}
